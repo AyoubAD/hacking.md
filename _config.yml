@@ -1,6 +1,28 @@
-title: Mis Apuntes Técnicos
-description: Documentación técnica y apuntes.
+# Configuración del tema
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
+
+# Título del sitio
+title: "Mis Apuntes"
+description: Documentación técnica y apuntes.
+
+
+# Configuración de la navegación
+nav_order: true  # Habilita el orden personalizado de la navegación
+search_enabled: true  # Habilita la búsqueda
 #logo: assets/logo.png
-search_enabled: true
+
+# Definir la estructura de la barra lateral
+nav:
+  - title: "Inicio"
+    url: /
+  - title: "Introducción"
+    url: /docs/introduccion
+  - title: "Conceptos Técnicos"
+    url: /docs/conceptos
+  - title: "Redes"
+    children:
+      - title: "Conceptos básicos de redes"
+        url: /docs/redes/redes-basicas
+      - title: "Cálculo de Subred"
+        url: /docs/redes/calculo-subred

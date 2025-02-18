@@ -2,5 +2,5 @@ title: Mis Apuntes Técnicos
 description: Documentación técnica y apuntes.
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
-logo: assets/logo.png
+#logo: assets/logo.png
 search_enabled: true

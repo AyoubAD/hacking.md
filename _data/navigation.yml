@@ -1,5 +1,13 @@
 docs:
-  - title: Inicio
-    url: /
-  - title: Conceptos Técnicos
-    url: /conceptos.md
+  - title: "Inicio"
+    url: "/"
+  - title: "Conceptos Técnicos"
+    url: "/conceptos.md"
+  - title: "Introducción al Hacking"
+    url: "/_data/Introducción al Hacking/"
+  - title: "Conceptos básicos de redes"
+    url: "/_data/Introducción al Hacking/Conceptos básicos de redes/"
+  - title: "Redes - Cálculo de Subred"
+    url: "/_data/Introducción al Hacking/Conceptos básicos de redes/redes-calculo-subred.md"
+  - title: "Redes - Conceptos Básicos"
+    url: "/_data/Introducción al Hacking/Conceptos básicos de redes/redes-conceptos-basicos.md"

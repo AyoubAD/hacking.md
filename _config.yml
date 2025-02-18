@@ -1,2 +1,6 @@
 title: Mis Apuntes Técnicos
-theme: minima
+description: Documentación técnica y apuntes.
+theme: just-the-docs
+color_scheme: dark
+logo: assets/logo.png
+search_enabled: true

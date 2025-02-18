@@ -1,0 +1,5 @@
+docs:
+  - title: Inicio
+    url: /
+  - title: Conceptos Técnicos
+    url: /conceptos.md

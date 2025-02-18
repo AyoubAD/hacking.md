@@ -8,9 +8,13 @@ description: Documentación técnica y apuntes.
 
 
 # Configuración de la navegación
-nav_order: true  # Habilita el orden personalizado de la navegación
+#nav_order: true  # Habilita el orden personalizado de la navegación
 search_enabled: true  # Habilita la búsqueda
 #logo: assets/logo.png
+
+# Configuración de la navegación lateral
+nav_order: 1
+nav_exclude: false
 
 # Definir la estructura de la barra lateral
 nav:
